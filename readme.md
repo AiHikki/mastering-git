@@ -1,4 +1,5 @@
-## Hello everyone, welcome to my guide!
+## Welcome to Git!
 
 - Yo, Johnny here!
+- This is coming from `dev-hikki`
 - I'm adding this from `feature-branch`
